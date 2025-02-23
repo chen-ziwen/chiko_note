@@ -6,7 +6,7 @@ lib/
 website/
 .temp
 .cache
-/docs/.vitepress/cache
+.vitepress/cache
 
 # local env files
 .env.local

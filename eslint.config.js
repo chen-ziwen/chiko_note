@@ -86,6 +86,7 @@ export default [
       'prettier/prettier': 'error' // 启用 Prettier 规则
     }
   },
+
   // 忽略检测
   {
     ignores: [
