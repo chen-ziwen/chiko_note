@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: 'Chiko Note'
-  text: '记录工作生活中的一些随笔记录'
+  name: Chiko Note
+  text: 记录工作生活中的一些随笔记录
   tagline: 各种技术栈，Vue、react、Typescript、Nodejs、H5 ...
+  image:
+    src: /logo.webp
+    alt: 千子笔记
   actions:
     - theme: brand
       text: Markdown Examples
